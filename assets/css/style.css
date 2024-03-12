@@ -128,7 +128,7 @@ body {
     box-shadow: 0 5px 5px #6d6868;
     z-index: 100;
 }
-/* 
+
 .bottom-course-slider::before {
     content: "";
     width: 60px;
@@ -151,7 +151,7 @@ body {
     top: -5px;
     transform: skew(-10deg, -10deg);
     z-index: 99;
-} */
+} 
 
 .affiliation {
     display: flex;
@@ -262,7 +262,7 @@ body {
 .white-splash{
     width: 100%;
     position: absolute;
-    bottom: 7%;
+    bottom: 130px;
     z-index: 9;
 }
 
@@ -274,6 +274,7 @@ width: 100%;
     padding: 50px 0;
     position: relative;
     z-index: 99;
+    bottom: 50px;
 }
 
 .hero-links{
